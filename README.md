@@ -16,7 +16,7 @@
   <img src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4" alt="keycloak" width="40" height="40"/>
 </a>
  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://zipkin.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/zipkin-io/zipkin/master/zipkin.png" alt="zipkin" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Zipkin-Distributed%20Tracing-blue?logo=apache&logoColor=white" alt="zipkin" height="30"/>
 </a>
  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a> <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/82391496?s=200&v=4" alt="jwt" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
